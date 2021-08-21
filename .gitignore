@@ -1,0 +1,5 @@
+# Hugo install directory
+.bin/
+
+# Distribution directory
+.dist/

@@ -1,0 +1,29 @@
+<footer class="common-footer">
+    {{ $languagesCount := $.Site.Home.AllTranslations }}
+    {{ if gt $languagesCount 1 }}
+        {{ partial "language-switcher.html" . }}
+    {{ end }}
+
+    <div class="common-footer-bottom">
+        {{ if .Site.Menus.footer }}
+            {{ $currentPage := . }}
+            <ul class="footer-menu">
+            {{ range .Site.Menus.footer }}
+            <li><a class="{{if or ($currentPage.IsMenuCurrent "footer" .) ($currentPage.HasMenuCurrent "footer" .) }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+            {{ end }}
+            </ul>
+        {{ end }}
+        <div class="copyright">
+            <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a><br><br>
+            {{ i18n "powered" | humanize }} <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, {{ i18n "theme" }} <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>, Emoji Font by <a href="https://github.com/twitter/twemoji">Twemoji</a>.<br>
+            </p>
+        </div>
+
+        {{ partial "theme-switcher.html" . }}
+    </div>
+
+    {{ partial "h-card.html" . }}
+</footer>
+
+<script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+<script>twemoji.parse(document.body);</script>
