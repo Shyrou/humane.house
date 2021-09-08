@@ -4,7 +4,7 @@ Many human beings around the world risk every year in affording a roof on top of
 
 <p style="text-align: center;"><strong>It is time to stop this madness.</strong></p>
 
-Many countries around Europe have started some initiatives to allow everyone being able to afford a flat or a house, discouraing Real Estate Agencies from buying cheap ones and/or properties, although this is not enough.
+Many countries around Europe have started some initiatives to allow everyone to be able to afford a flat or a house, discouraing Real Estate Agencies from buying cheap ones and/or properties, although this is not enough.
 
 In times like the one we are living now, uncertainity is always around the corner and stability is literally a luxury. Despite the crisis we're all living, Real Estate Agencies see no real interest in changing the way they operate.
 
@@ -16,11 +16,11 @@ Renting a Flat today has become as expensive and bounding as like when you get a
 
 Here you can find some quick facts of how they operate today:
 
-- **Service fees are on you:** In many markets renting a flat without an Agency behind the scenes has become close to impossible. If you're interested in renting you either have to obey their rules, or can forget to able to rent that flat. Because of this they made MANDATORY on you a Tax you never had the luxury to decide if willing to pay or not. Additionally, this tax is not covering anything useful or practical along the time you're reside in that Flat.
+- **Service fees are on you:** In many markets renting a flat without an Agency behind the scenes has become close to impossible. If you're interested in renting you either have to obey their rules, or can forget to able to rent that flat. Because of this they made MANDATORY on you a Tax you never had the luxury to decide if willing to pay or not. Additionally, this tax is not covering anything useful or practical along the time you're residing in that Flat.
 
-- **You're on your own on day 1:** Got a problem with your neighourhood or don't you like the fact it's simply noisy? You will always be bounced back to the local Police Office. They'll tell you they can't do nothing to help you unless you're willing to give up your contract earlier and allow them to own your deposit because of that. They make the rules and you're forced to obey them.
+- **You're on your own from day 1:** Got a problem with your neighourhood or simply you don't like the fact it's noisy? You will always be bounced back to the local Police Office. They'll tell you they can't do anything to help you unless you're willing to give up your contract earlier, thus allowing them to own your deposit because of that. They make the rules and you're forced to obey them.
 
-- **Immediate payments:** Many Agencies demand you to pay a set of monetary fees to be able to enter the Flat you might be interested to Rent. This usually includes the deposit guarantee up to how many months the Country rules obliges, the month you're going to enter plus their fee. This usually goes up to 3x-4x times the costs required to enter and it's demanded immediately. When the contract will be over though, and it's time for you to get back your money, they'll delay it up to 60 days "because of required guarantees".
+- **Immediate payments:** Many Agencies demand that you pay a set of monetary fees to be able to enter the Flat you might be interested on renting. This usually includes the deposit guarantee up to how many months the Country rules obliges, the month you're going to enter, plus their fee. This usually goes up to 3x-4x times the costs required to enter and it's demanded immediately. When the contract is over though, and it's time for you to get your money back, they'll delay it up to 60 days "because of required guarantees".
 
 ---
 
@@ -30,9 +30,9 @@ The aim of this open letter is to provide a new set of fair rules which should b
 
 1. **Flexibility:** Allow a tenant to withdraw from a rent agreement with no penalties involved. Like you are able to unsubcribe your Netflix subscription, you should be able to do the same with your rent agreement. A cooldown timespan can be agreed between the landlord and the tenant.
 
-2. **Ensurance:** Landlords want to make sure their rent costs are paid effectively every month. Tenants want to be sure are not evicted with a 24h notice. It's time to provide a balance on both sides which make sure both rights are ensured. Legal Frameworks currently in place have mostly those covered. We just need to follow them.
+2. **Ensurance:** Landlords want to make sure their rent costs are paid effectively every month. Tenants want to be sure they are not evicted with a 24h notice. It's time to provide a balance on both sides which make sure both rights are ensured. Legal Frameworks currently in place have those mostly covered. We just need to follow them.
 
-3. **No Fees:** If a Landlord does not want to "play active on the renting market", it is allowed to have a third-party entity taken care for their job. Costs although MUST be on the landlord side. Tenant MUST NOT be demanded to cover those fees.
+3. **No Fees:** If a Landlord does not want to "play active on the renting market", it is allowed to have a third-party entity taking care of it for them. Any related costs though, MUST be on the landlord side. Tenants MUST NOT be demanded to cover those fees.
 
 ---
 
